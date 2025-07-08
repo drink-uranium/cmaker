@@ -1,4 +1,5 @@
 # cmaker
+<img src="https://github.com/drink-uranium/cmaker/blob/main/cmaker.png">
 fun project i made, the point of it is to help with the process of compiling source code automatically.
 functionality:
 this python script compiles: cmake; scons; makefile; can use and compile github repos with links.
