@@ -1,6 +1,6 @@
 # cmaker
 <img src="https://github.com/drink-uranium/cmaker/blob/main/cmaker.png">
-<a href="https://github.com/user-attachments/files/21116024/cmaker.tar.gz">Download tar.gz Here</a>
+<a href="https://github.com/user-attachments/files/21116024/cmaker.tar.gz">Download tar.gz Here (contains program and the uncompiled source)</a>
 <p>fun project i made, the point of it is to help with the process of compiling source code automatically.</p>
 functionality:
 <p>this python script compiles: cmake; scons; makefile; can use and compile github repos with links.</p>
